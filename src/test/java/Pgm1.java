@@ -16,5 +16,7 @@ public class Pgm1 {
         num=num/10;
 
     }
-        System.out.println(rev);}
+        System.out.println(rev);
+    System.out.println("adding new line");
+    }
 }
